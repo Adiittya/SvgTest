@@ -1,0 +1,27 @@
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 20px;
+}
+
+#svgContainer {
+  margin-top: 20px;
+  display: inline-block;
+  border: 2px solid black;
+}
+
+svg {
+  width: 100%;
+  height: auto;
+}
+
+rect {
+  transition: transform 0.3s ease, fill 0.3s ease;
+}
+
+rect.zoomed {
+  transform: scale(1.5);
+  fill: #FF5733;
+  transform-origin: center;
+}

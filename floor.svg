@@ -1,0 +1,8 @@
+  <svg id="mySVG" width="883" height="554" viewBox="0 0 883 554" xmlns="http://www.w3.org/2000/svg">
+    <rect id="rect1" x="174.5" y="84.5" width="111" height="117" fill="#D9D9D9" stroke="black" stroke-width="5"/>
+    <rect id="rect2" x="506.5" y="84.5" width="111" height="117" fill="#D9D9D9" stroke="black" stroke-width="5"/>
+    <rect id="rect3" x="325.5" y="384.5" width="111" height="117" fill="#D9D9D9" stroke="black" stroke-width="5"/>
+    <rect id="rect4" x="636.5" y="249.5" width="111" height="117" fill="#D9D9D9" stroke="black" stroke-width="5"/>
+    <rect id="rect5" x="45.5" y="249.5" width="111" height="117" fill="#D9D9D9" stroke="black" stroke-width="5"/>
+    <rect id="rect6" x="178.5" y="234.5" width="436" height="117" fill="#D9D9D9" stroke="black" stroke-width="5"/>
+  </svg>
